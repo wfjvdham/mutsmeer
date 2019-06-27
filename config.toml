@@ -1,0 +1,45 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Muts Meer"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Jackie Sanchez - All rights reserved"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "/images/20190607_135911.jpg"
+  description ="the clean blog!"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  name = "Jackie Sanchez"
+  thumbnail = "/images/20190605_151808.jpg"
+  description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/20190605_151808.jpg"
+  title = "Jackie Sanchez"
+  subtitle = "I'm a unique placeholder. Working here and there!"
+  mdtext = '''Hallo'''
+  alertbar = true
+
+[params.social]
+  github = "<username>"
+  linkedin = "<username>"
+  xing = "<username>"
+  medium = "<username>"
+  twitter = "<username>"
+  instagram = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
