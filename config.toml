@@ -9,7 +9,8 @@ copyright = "Jackie Sanchez - All rights reserved"
 
 [params]
   logo = "/images/20190607_135911.jpg"
-  description ="the clean blog!"
+  description ="Gallery"
+  customCss = ["custom.css"]
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
@@ -19,22 +20,18 @@ copyright = "Jackie Sanchez - All rights reserved"
 
 [params.index]
   picture = "/images/20190605_151808.jpg"
-  title = "Jackie Sanchez"
-  subtitle = "I'm a unique placeholder. Working here and there!"
-  mdtext = '''Hallo'''
+  title = "Muts Meer"
+  #ssubtitle = "I'm a unique placeholder. Working here and there!"
+  mdtext = '''Years of traditional Colombian hand craft have arrived to the Netherlands. A colorful way to connect with your child and to express your beauty. Authentically hand made turbants (headbands) in different size, style and material. Please go the the gallery to see some options and let me now if I can make one for you. '''
   alertbar = true
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
-  twitter = "<username>"
-  instagram = "<username>"
+  instagram = "mutsmeer"
+  email = "mutsmeer@gmail.com"
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "Gallery"
     weight = 100
     identifier = "blog"
     url = "/blog"
