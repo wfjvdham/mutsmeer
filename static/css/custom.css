@@ -4,6 +4,12 @@ body {
 .index-title {
   color: rgba(141, 10, 182, 0.75);
 }
-.index-text {
-  color: rgba(141, 10, 182, 0.5);
+.sitetitle {
+  color: rgba(141, 10, 182, 0.75);
+}
+.nav-link {
+  font-size: x-large;
+}
+.text-dark {
+  color: rgba(141, 10, 182, 0.75);
 }
