@@ -4,8 +4,8 @@ title = "Muts Meer"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Jackie Sanchez - All rights reserved"
-#disqusShortname = "your-shortname-here"
-#googleAnalytics = "UA-1XXXXXXX1-1"
+#disqusShortname = "mutsmeer"
+googleAnalytics = "UA-119902709-2" 
 
 [params]
   logo = "/images/top.bmp"
