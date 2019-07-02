@@ -14,13 +14,13 @@ googleAnalytics = "UA-119902709-2"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "Jackie Sanchez"
+  name = "JSG"
   thumbnail = "/images/author.bmp"
-  description = "Creator of this blog."
+  description = "Master of the turbantes"
 
 [params.index]
   picture = "/images/home.jpg"
-  title = "Muts Meer"
+  title = ""
   #ssubtitle = "I'm a unique placeholder. Working here and there!"
   mdtext = '''Years of traditional Colombian hand craft have arrived to the Netherlands. A colorful way to connect with your child and to express your beauty. Authentically hand made turbants (headbands) in different size, style and material. Please go the the gallery to see some options and let me now if I can make one for you. Mail me at mutsmeer@gmail.com or look at my instagram.'''
   alertbar = true
